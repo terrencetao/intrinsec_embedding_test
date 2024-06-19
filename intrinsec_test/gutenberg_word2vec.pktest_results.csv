@@ -1,0 +1,6 @@
+Test,Result
+Analogies Evaluation,0.0
+Outlier Detection,13.333333333333334
+Clustering Purity,0.43471380471380466
+Clustering Silhouette,0.5859992092266832
+Similarity Evaluation,0.019869689895292073
