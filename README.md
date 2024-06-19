@@ -26,7 +26,7 @@ python --model_folder 'path_to_model_folder' --dim 'vector_dimension' --w2v 'vec
 
 ## Alternative Repository
 
-Additionally, you may want to check out another repository that achieves the same objective but with certain constraints: word-embeddings-benchmarks.
+Additionally, you may want to check out another repository that achieves the same objective but with certain constraints: [word-embeddings-benchmarks](https://github.com/kudkudak/word-embeddings-benchmarks).
 Folder Structure
 
    
